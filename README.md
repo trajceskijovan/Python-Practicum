@@ -6,15 +6,15 @@ Python Practicum - prepare for your interview or just get a refresher.
 2. Data manupulation is based on "txhousing.csv"
 
 # Sample Insights
-![](samples/1.png)
-![](samples/2.png)
-![](samples/3.png)
-![](samples/4.png)
-![](samples/5.png)
-![](samples/6.png)
-![](samples/7.png)
-![](samples/8.png)
-![](samples/9.png)
-![](samples/10.png)
-![](samples/11.png)
+![](samples/1.PNG)
+![](samples/2.PNG)
+![](samples/3.PNG)
+![](samples/4.PNG)
+![](samples/5.PNG)
+![](samples/6.PNG)
+![](samples/7.PNG)
+![](samples/8.PNG)
+![](samples/9.PNG)
+![](samples/10.PNG)
+![](samples/11.PNG)
 
