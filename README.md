@@ -1,5 +1,5 @@
 # Python-Practicum
-Python Practicum - prepare for your interview or just get a refresher.
+Python Practicum - prepare for your Data Science interview or get a refresher.
 
 # Data
 1. Data visualization using data on births from the state of North Carolina. 
